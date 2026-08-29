@@ -264,8 +264,6 @@ Software Engineering
 
 📧 **Email:** [hamchamco7@gmail.com](mailto:hamchamco7@gmail.com)
 
-🐙 **GitHub:** [@hamshamso](https://github.com/hamshamso)
-
 ---
 
 ⭐ Thanks for visiting my profile!
