@@ -115,10 +115,6 @@ Alongside software engineering, I work as a **Travel Consultant** managing inter
 - 💵 Fare management, flight availability, and account handling
 - 👥 Airline communication and international travel logistics
 
-This experience has given me practical exposure to airline reservation systems,
-international travel operations, customer communication, and real-world account
-management.
-
 ---
 
 ## 🌱 Currently Learning
@@ -131,10 +127,7 @@ I'm currently going deeper into:
 - 🟢 Node.js & Express
 - 🍃 MongoDB & Mongoose
 - 🔐 Authentication & Authorization
-- 🔑 JWT
-- 🔌 REST API architecture
-- 🏗️ Backend architecture
-- 🧩 Software architecture
+- 🏗️ REST API & Backend architecture
 - 📦 Full-Stack application design
 
 ---
