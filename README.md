@@ -119,25 +119,13 @@ movie browsing and favorites functionality.
 
 ---
 
-## ✈️ Travel Consultant
+### ✈️ Travel Consultant
 
-Alongside my software engineering journey, I work as a **Travel Consultant**
-using the **Amadeus reservation system**.
+Alongside software engineering, I work as a **Travel Consultant** managing international airline reservations using the **Amadeus GDS** system.
 
-### ✈️ What I Work With
-
-- ✈️ Flight reservations
-- 🎫 Ticketing
-- 🔄 Ticket changes
-- 💰 Refunds
-- 📄 PNR management
-- 👤 Passenger information
-- 💵 Fare management
-- 🔎 Flight availability
-- 👥 Account management
-- 🎟️ Buying and selling airline tickets
-- 📧 Communicating with major airline companies
-- 🌍 Handling international flight requests
+- ✈️ Flight reservations, ticketing, reissues, refunds, and PNR management
+- 💵 Fare management, flight availability, and account handling
+- 👥 Airline communication and international travel logistics
 
 This experience has given me practical exposure to airline reservation systems,
 international travel operations, customer communication, and real-world account
