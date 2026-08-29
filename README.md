@@ -196,17 +196,6 @@ I'm currently going deeper into:
 - 🧩 Software architecture
 - 📦 Full-Stack application design
 
-### 🤖 Artificial Intelligence
-
-I'm also continuing to explore:
-
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 🔗 AI integration into applications
-- 📱 On-device AI
-- 🚀 Practical AI-powered software
-- 🧩 AI + Software Engineering
-
 ---
 
 ## 🎯 Goals
@@ -228,31 +217,6 @@ As a Travel Consultant & Future Software Engineer, I can debug your MongoDB conn
 
 ---
 
-## 📊 What I'm Interested In
-
-```text
-Software Engineering
-       │
-       ├── 💻 Full-Stack Development
-       │      ├── React
-       │      ├── Node.js
-       │      ├── Express
-       │      └── MongoDB
-       │
-       ├── 🤖 Artificial Intelligence
-       │      ├── Machine Learning
-       │      ├── Deep Learning
-       │      └── AI Applications
-       │
-       ├── 🏗️ Software Architecture
-       │      ├── APIs
-       │      ├── Authentication
-       │      ├── Databases
-       │      └── Scalable Systems
-       │
-       └── ✈️ Travel Technology
-              └── Amadeus
-```
 ## 📫 Connect With Me
 
 💼 **LinkedIn:** [Hamadache Chemseddine](https://www.linkedin.com/in/chamseddin-hamadache)
