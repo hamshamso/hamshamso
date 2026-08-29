@@ -97,7 +97,6 @@ Also working with:
 A full-stack e-commerce platform built with the MERN stack.
 🔗 **GitHub:** [E-Commerce-App](https://github.com/hamshamso/E-Commerce-App)
 
----
 
 ### 🤖 Android Malware Detection
 
@@ -105,14 +104,12 @@ An Android application integrating a Machine Learning model to detect potentiall
 malicious applications based on application permissions.
 🔗 **GitHub:** [LegandryMalwareDetector](https://github.com/hamshamso/LegandryMalwareDetector)
 
----
 
 ### 🏆 Charity Platform — 2nd Place University Competition
 
 A full-stack charity platform developed as a university competition project.
 🔗 **GitHub:** [CharityApp](https://github.com/islam-gcm/CharityApp/tree/main)
 
----
 
 ### 🎬 Movies API
 
@@ -120,7 +117,6 @@ A responsive movie application that consumes an external movie API and provides
 movie browsing and favorites functionality.
 🔗 **GitHub:** [Movies_API](https://github.com/hamshamso/Movies_API)
 
----
 
 ## ✈️ Travel Consultant
 
