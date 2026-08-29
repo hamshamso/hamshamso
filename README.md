@@ -257,3 +257,17 @@ Software Engineering
        │
        └── ✈️ Travel Technology
               └── Amadeus
+```
+## 📫 Connect With Me
+
+💼 **LinkedIn:** [Hamadache Chemseddine](https://www.linkedin.com/in/chamseddin-hamadache)
+
+📧 **Email:** [hamchamco7@gmail.com](mailto:hamchamco7@gmail.com)
+
+🐙 **GitHub:** [@hamshamso](https://github.com/hamshamso)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+I'm always learning, building, experimenting, and looking for the next problem to solve. 🚀
