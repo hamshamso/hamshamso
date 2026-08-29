@@ -11,7 +11,7 @@ and occasionally breaking things in the name of debugging 😄
 
 I'm a Computer Science student specializing in Software Engineering, passionate about
 building full-stack applications, exploring Artificial Intelligence, and understanding
-how software systems work from frontend to backend.
+how software systems work from view to controller.
 
 🎓 Currently pursuing a Master's degree in Software Engineering at the University of Boumerdes.
 
@@ -26,7 +26,7 @@ Learning model using TensorFlow Lite.
 
 ✈️ Alongside software development, I work as a Travel Consultant using the Amadeus
 reservation system, working with airline reservations, ticketing, changes, refunds,
-PNR management, fares, availability, and airline communication.
+PNR management, fares, availability, airline communication and trip organisation.
 
 ---
 
@@ -35,7 +35,7 @@ PNR management, fares, availability, and airline communication.
 - 🎓 **Master 1 — Software Engineering**
 - 🏫 **University of Boumerdes**
 - 💻 Computer Science
-- 📅 Expected graduation: **2026**
+- 📅 Expected graduation inshallah: **2028**
 
 ---
 
@@ -86,7 +86,7 @@ PNR management, fares, availability, and airline communication.
 
 Also working with:
 
-`Thunder Client` `Microsoft Excel` `Microsoft Word` `MongoDB Compass` `AI Tools`
+`Thunder Client` `Microsoft Excel` `Microsoft Word` `MongoDB Compass` `AI Tools` `Amadeus system`  
 
 ---
 
@@ -212,13 +212,10 @@ I'm also continuing to explore:
 ## 🎯 Goals
 
 - 🚀 Become a high-level **Full-Stack Software Engineer**
-- 🏗️ Design and build robust, scalable software systems
+- 💡 Design and build robust, scalable software systems that solves real-world problems
 - 🤖 Build practical AI-powered applications
-- 🧠 Become stronger in Machine Learning and Deep Learning
 - 🔌 Master backend architecture and API design
-- 🔐 Build secure and reliable applications
-- 🌍 Contribute to open-source projects
-- 💡 Build software that solves real-world problems
+- 🌍 Contribute to open-source projects 
 - 🔗 Explore the intersection between **AI and Full-Stack Development**
 - 📚 Continuously improve my software engineering and system design skills
 - 🌐 Build and deploy production-ready applications
@@ -227,9 +224,7 @@ I'm also continuing to explore:
 
 ## 💡 Fun Fact
 
-> ✈️ I can spend the day working with airline reservations in Amadeus,
-> then spend the evening debugging a MERN application...
-> and somehow both involve asking myself **"Why is this not working?"** 😂
+As a Travel Consultant & Future Software Engineer, I can debug your MongoDB connection string and issue your flight ticket to Amsterdam in the exact same terminal window! ✈️🍃
 
 ---
 
