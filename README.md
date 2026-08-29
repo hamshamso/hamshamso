@@ -9,24 +9,12 @@ and occasionally breaking things in the name of debugging 😄
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student specializing in Software Engineering, passionate about
-building full-stack applications, exploring Artificial Intelligence, and understanding
-how software systems work from view to controller.
+I'm a Software Engineering Master's student at the University of Boumerdes, passionate about building scalable full-stack web apps and AI-powered tools.
 
-🎓 Currently pursuing a Master's degree in Software Engineering at the University of Boumerdes.
-
-💻 I'm currently focused on Full-Stack Development with the MERN stack and improving my
-knowledge of backend architecture, APIs, authentication, databases, and scalable applications.
-
-🤖 I'm also interested in Artificial Intelligence and Machine Learning, especially in
-building practical AI-powered applications.
-
-📱 I've worked on an Android malware detection application that integrates a Machine
-Learning model using TensorFlow Lite.
-
-✈️ Alongside software development, I work as a Travel Consultant using the Amadeus
-reservation system, working with airline reservations, ticketing, changes, refunds,
-PNR management, fares, availability, airline communication and trip organisation.
+- 🎓 **Education:** Pursuing a Master's in Software Engineering at the University of Boumerdes.
+- 💻 **Full-Stack:** Focused on the MERN stack, API design, authentication, and backend architecture.
+- 🤖 **AI/ML:** Built an on-device Android malware detector using TensorFlow Lite.
+- ✈️ **Day Job:** Travel Consultant managing international flight operations via Amadeus GDS.
 
 ---
 
