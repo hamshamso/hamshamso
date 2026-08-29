@@ -95,19 +95,6 @@ Also working with:
 ### 🛒 E-Commerce Application
 
 A full-stack e-commerce platform built with the MERN stack.
-
-🔐 Authentication & Authorization  
-👤 User management  
-🛡️ Admin-only middleware  
-📦 Product management  
-🏷️ Categories  
-🛒 Shopping cart  
-💳 Checkout  
-📋 Orders  
-🔌 REST API  
-🍃 MongoDB & Mongoose  
-🔑 JWT & bcrypt
-
 🔗 **GitHub:** [E-Commerce-App](https://github.com/hamshamso/E-Commerce-App)
 
 ---
@@ -116,13 +103,6 @@ A full-stack e-commerce platform built with the MERN stack.
 
 An Android application integrating a Machine Learning model to detect potentially
 malicious applications based on application permissions.
-
-📱 Java & Android Studio  
-🧠 Machine Learning  
-🤖 TensorFlow Lite  
-⚡ On-device inference  
-🔒 Designed to work without requiring an internet connection
-
 🔗 **GitHub:** [LegandryMalwareDetector](https://github.com/hamshamso/LegandryMalwareDetector)
 
 ---
@@ -130,13 +110,6 @@ malicious applications based on application permissions.
 ### 🏆 Charity Platform — 2nd Place University Competition
 
 A full-stack charity platform developed as a university competition project.
-
-🏆 **2nd place in a university competition**
-
-💻 Full-Stack Web Application  
-🌐 Frontend & Backend  
-🚀 Deployed Web Application
-
 🔗 **GitHub:** [CharityApp](https://github.com/islam-gcm/CharityApp/tree/main)
 
 ---
@@ -145,11 +118,6 @@ A full-stack charity platform developed as a university competition project.
 
 A responsive movie application that consumes an external movie API and provides
 movie browsing and favorites functionality.
-
-⚛️ React  
-🔌 REST API  
-🎨 Responsive UI
-
 🔗 **GitHub:** [Movies_API](https://github.com/hamshamso/Movies_API)
 
 ---
