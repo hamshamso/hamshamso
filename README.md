@@ -117,6 +117,7 @@ A responsive movie application that consumes an external movie API and provides
 movie browsing and favorites functionality.
 🔗 **GitHub:** [Movies_API](https://github.com/hamshamso/Movies_API)
 
+---
 
 ## ✈️ Travel Consultant
 
